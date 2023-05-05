@@ -14,7 +14,7 @@ module.exports = async (bot) => {
         command.permission === "Aucune" ? null : command.permission
       );
 
-    if (command.options?.lenght >= 1) {
+    if (command.options?.length >= 1) {
       for (let i = 0; i < command.options.lenght; i++) {
         slashCommand[
           `add${
