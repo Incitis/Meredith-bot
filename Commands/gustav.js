@@ -12,7 +12,7 @@ module.exports = {
       "Cessez donc, Gustav. Je ne m'intéresse qu'à votre porte-feuille. Et toutes informations que vous pourriez me donner. **sourit en coin**",
       "Gustav, vous savez aussi bien que moi que nous serions un duo formidable...",
       "J'aimerai connaître le moindre de vos secrets. Cette aura que vous dégagez m'obsède.",
-      "Vous savez, je peux payais les informations de plusieurs façons. Je sais bien que mon argent ne vous intéresse pas. **joue des sourcils**",
+      "Vous savez, je peux payer les informations de plusieurs façons. Je sais bien que mon argent ne vous intéresse pas. **joue des sourcils**",
       "Arrêtez de protéger cet ignare !",
     ];
 
